@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"mod-azure-gov-tags","Source":"git::ssh://git@github.com/Sahouaneyassine/mod-convert-list.git","Dir":".terraform/modules/mod-azure-gov-tags"}]}
